@@ -1,9 +1,9 @@
+import java.util.Scanner;
+import max.*;
 public class Mail {
-
     private String sender;
     private String recipient;
     private String subject;
-
     private String message;
 
     public Mail() {
